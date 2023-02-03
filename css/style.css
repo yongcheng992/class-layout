@@ -1,6 +1,13 @@
-.project{
+.projects{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-.
+.site-footer-left{
+    display: grid;
+    grid-template-columns: 1fr; 
+}
+.site-footer-right{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
